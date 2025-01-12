@@ -1,0 +1,9 @@
+KEY: "pk_xxxx"
+CLIENT_SECRET_FILE: "./.local/client_secret_xxxxx-xxxxxx.apps.googleusercontent.com.json"
+SERVICE_ACCOUNT_FILE: "./.local/ga4-project-xxxxx-xxxxx.json"
+PROJECT_ID: "ga4-project-xxxxx"
+PROPERTY_ID: "XXXXXx" #GA4 Property ID
+FETCH_TO_DATE: "2024-10-25T00:00:00.000Z"
+DATASET_ID: "klaviyo_"
+TABLE_PREFIX: "klaviyo_"
+
